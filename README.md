@@ -44,7 +44,7 @@ E assim por diante, até que o usuário erre a sequência.
             - Defina um tema para o seu jogo: pense em um layout que deixe o jogo bem intuitivo para o usuário;
             - Desenvolva o layout: pode utilizar ferramentas, como o FIGMA, para criar um jogo bem bonito, seguindo as cores que combinem com o tema escolhido. Assim, vocês terão insights de como ficará a "cara" do jogo;
             - Tente criar toda a lógica do jogo: qual será o fluxo da sua aplicação (começo, meio e fim). Por exemplo: quando o jogo começar, o que será apresentado? O jogador acertou toda a sequência? E agora, qual o próximo passo? Se o jogador errar, o que eu faço?
-            - E, por fim, comecem a <code>CODAR</code>.</li>
+            - E, por fim, comecem a <code>CODAR</code>.
 
         Lembrando que SÃO APENAS DICAS. Não é obrigatório seguir essa estrutura.
 
